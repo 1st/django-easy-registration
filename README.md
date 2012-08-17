@@ -24,5 +24,8 @@ User can login to Django powered website via fast registration:
    - also available: reset password; change password; change email with send confirmation message to new email
  - via social network
    - press on link "associate" near the social network name and login to this social network
+   - select unique username on website
    - user can add only single association per each social network
    - user can delete any social association. But, he need to have one association, if he have not setup email+password
+
+User can add any number of associations in any time. He can also delete or set email+password asociation at any time.
