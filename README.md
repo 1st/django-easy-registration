@@ -5,7 +5,7 @@ Django easy registration via email+password, twitter, facebook, google and other
 
 
 Main goal
-=========================
+------------------------
 
 I have found that other "good" solutions like django-registration, djang-social-auth is hard to setup for new project.
 
@@ -14,7 +14,7 @@ Goal of this project - is to help developers to easy and fast setup best user re
 If you can help me - please do this in any time by make push requests, or discuss with me about how can we do this project more easy to use by any Django developer.
 
 How it is works
-=========================
+------------------------
 
 User can login to Django powered website via fast registration:
  - via email and password
