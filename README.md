@@ -1,6 +1,8 @@
 django-easy-registration
 ========================
 
+`(UNDER ACTIVE DEVELOPMENT)`
+
 Django easy registration via email+password, twitter, facebook, google and other OAuth and OpenID services.
 
 
