@@ -32,5 +32,7 @@ User can login to Django powered website via fast registration:
 
 User can add any number of associations in any time. He can also delete or set email+password asociation at any time.
 
-See also:
+See also
+------------------------
+
  - https://github.com/1st/django-easy-registration/wiki
